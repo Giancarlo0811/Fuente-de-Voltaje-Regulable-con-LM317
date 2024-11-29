@@ -17,10 +17,6 @@ Con el potenciómetro se puede regular a la tensión deseada entre un rango de 1
 - Cables
 - Fuente de 12V
 
-## Diseño
-
-![alt text](./Imagenes/Esquema-Calculos.jpg)
-
 ## Diagrama
 
 ![alt text](./Imagenes/Diagrama.PNG)
@@ -28,4 +24,4 @@ Con el potenciómetro se puede regular a la tensión deseada entre un rango de 1
 ## Montaje
 Para ver la demostración hacer click en la imagen de abajo.
 
-[<img src="./Imagenes/Montaje1.jpg">](https://youtu.be/72_JbJfne30)
+[<img src="./Imagenes/Montaje1.jpg">](https://youtu.be/LkwJNtBGrnM)
