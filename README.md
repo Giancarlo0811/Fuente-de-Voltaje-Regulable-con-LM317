@@ -3,11 +3,9 @@ Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje L
 
 El voltaje de entrada utilizado fue de 12V. 
 Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de 
-1.255V.
+1.255V. Con el potenciómetro se puede regular la tensión en el rango mencionado.
 
-Con el potenciómetro se puede regular a la tensión deseada entre un rango de 1.25V a 10.68V.
-
-## Componentes
+## ⚡ Componentes
 - 1 LM317
 - 1 Resistencia de 1K
 - 1 Potenciómetro de 10K
@@ -17,11 +15,11 @@ Con el potenciómetro se puede regular a la tensión deseada entre un rango de 1
 - Cables
 - Fuente de 12V
 
-## Diagrama
+## 📐 Esquemático
 
 ![alt text](./Imagenes/Diagrama.PNG)
 
-## Montaje
+## 🔌 Montaje
 Para ver la demostración hacer click en la imagen de abajo.
 
 [<img src="./Imagenes/Montaje1.jpg">](https://youtu.be/LkwJNtBGrnM)
