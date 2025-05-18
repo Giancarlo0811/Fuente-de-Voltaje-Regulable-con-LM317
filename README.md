@@ -5,7 +5,7 @@ El voltaje de entrada utilizado fue de 12V.
 Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de 
 1.255V. Con el potenciómetro se puede regular la tensión en el rango mencionado.
 
-🎬 **Demostración:** https://youtu.be/LkwJNtBGrnM
+🎬 **Demostración: [Video](https://youtu.be/LkwJNtBGrnM)**
 
 ## ⚡ Componentes
 - 1 LM317
@@ -18,10 +18,7 @@ Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de
 - Fuente de 12V
 
 ## 📐 Esquemático
-
 ![alt text](./Imagenes/Diagrama.PNG)
 
 ## 🔌 Montaje
-*Para ver la demostración hacer click en la imagen de abajo.*
-
-[<img src="./Imagenes/Montaje1.jpg">](https://youtu.be/LkwJNtBGrnM)
+![alt text](./Imagenes/Montaje1.jpg)
