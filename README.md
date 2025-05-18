@@ -18,7 +18,9 @@ Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de
 - Fuente de 12V
 
 ## 📐 Esquemático
+
 ![alt text](./Imagenes/Diagrama.PNG)
 
 ## 🔌 Montaje
+
 ![alt text](./Imagenes/Montaje1.jpg)
