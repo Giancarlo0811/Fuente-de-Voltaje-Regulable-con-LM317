@@ -22,6 +22,6 @@ Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de
 ![alt text](./Imagenes/Diagrama.PNG)
 
 ## 🔌 Montaje
-Para ver la demostración hacer click en la imagen de abajo.
+*Para ver la demostración hacer click en la imagen de abajo.*
 
 [<img src="./Imagenes/Montaje1.jpg">](https://youtu.be/LkwJNtBGrnM)
