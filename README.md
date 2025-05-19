@@ -3,7 +3,7 @@ Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje L
 
 - **Voltaje de entrada:** 15V
 
-- **Voltaje de salida**: $\Vout = 1.25*(1+R2/R1)$
+- **Voltaje de salida**: $Vout = 1.25*(1+R2/R1)$
 
 - **Rango con R1 = 1K y R2 = 10K:** 
   - **Mínimo teórico:** 1.25V (Vref) cuando R2 = 0  
