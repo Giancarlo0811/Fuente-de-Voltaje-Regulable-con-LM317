@@ -1,5 +1,5 @@
 # Fuente-de-Voltaje-Regulable-con-LM317
-Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje LM317.
+Fuente de tensión regulable de 1.255V a 10V utilizando el regulador de voltaje LM317.
 
 El voltaje de entrada utilizado fue de 12V. 
 Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de 
