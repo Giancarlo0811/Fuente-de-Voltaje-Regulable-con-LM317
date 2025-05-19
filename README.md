@@ -14,7 +14,7 @@ Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje L
 
 Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de 
 1.255V. 
-El voltaje máximo medido fue menor al teórico debido a la caída de voltaje mínima (dropout voltage) del LM317 olerancias, así como posibles limitaciones de la fuente de entrada.
+El voltaje máximo medido fue menor al teórico debido a la tensión de caída (dropout voltage) del LM317 y a las tolerancias, así como posibles limitaciones de la fuente de entrada.
 
 🎬 **Demostración: [Video](https://youtu.be/LkwJNtBGrnM)**
 
