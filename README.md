@@ -3,15 +3,14 @@ Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje L
 
 - **Voltaje de entrada:** 15V
 
-- **Voltaje de salida**:
-    \[
-    V_{out} = V_{ref} \times \left(1 + \frac{R_2}{R_1}\right) + I_{adj} \times R_2
-    \]
+- **Voltaje de salida**: $\Vout = 1.25*(1+R2/R1)$
 
-- **Rango con \( R_1 = 1\,k\Omega \) y \( R_2 = 10\,k\Omega \):** 
-  - **Mínimo:** \( 1.25\,V \) (cuando \( R_2 = 0\,\Omega \))  
-  - **Máximo teórico:** \( 13.75\,V \)
-  - **Máximo medido:** \( 10.68\,V \)
+- **Rango con R1 = 1K y R2 = 10K:** 
+  - **Mínimo teórico:** 1.25V (Vref) cuando R2 = 0  
+  - **Máximo teórico:** 13.75V
+
+  - **Mínimo medido:** 1.255V
+  - **Máximo medido:** 10.68V
 
 Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de 
 1.255V. 
