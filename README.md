@@ -5,7 +5,7 @@ Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje L
 
 - **Voltaje de salida**:
     \[
-    V_{out} = 1.25\,V \times \left(1 + \frac{R_2}{R_1}\right)  
+    V_{out} = V_{ref} \times \left(1 + \frac{R_2}{R_1}\right) + I_{adj} \times R_2
     \]
 
 - **Rango con \( R_1 = 1\,k\Omega \) y \( R_2 = 10\,k\Omega \):** 
