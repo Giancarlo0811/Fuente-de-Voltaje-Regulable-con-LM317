@@ -29,6 +29,11 @@ El voltaje máximo medido fue menor al teórico debido a la caída de voltaje m�
 - Cables
 - Fuente de 15V
 
+
+## Diseño
+
+![alt text](./Imagenes/Diseño.jpeg)
+
 ## 📐 Esquemático
 
 ![alt text](./Imagenes/Diagrama.jpg)
