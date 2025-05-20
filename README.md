@@ -1,6 +1,8 @@
 # Fuente-de-Voltaje-Regulable-con-LM317
 Fuente de tensión regulable de 1.25V a 10V utilizando el regulador de voltaje LM317. Con el potenciómetro se puede regular la tensión.
 
+🎬 **Demostración: [Video](https://youtu.be/LkwJNtBGrnM)**
+
 - **Voltaje de entrada:** 15V
 
 - **Voltaje de salida**: $Vout = 1.25*(1+R2/R1)$
@@ -16,8 +18,6 @@ Se obtuvo un voltaje de salida máximo de 10.68V y un voltaje mínimo de
 1.255V. 
 El voltaje máximo medido fue menor al teórico debido a la tensión de caída (dropout voltage) del LM317 y a las tolerancias, así como posibles limitaciones de la fuente de entrada.
 
-🎬 **Demostración: [Video](https://youtu.be/LkwJNtBGrnM)**
-
 ## ⚡ Componentes
 - LM317
 - Resistencia de 1K
@@ -27,7 +27,6 @@ El voltaje máximo medido fue menor al teórico debido a la tensión de caída (
 - Protoboard
 - Cables
 - Fuente de 15V
-
 
 ## Diseño
 
